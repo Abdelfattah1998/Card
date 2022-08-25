@@ -13,6 +13,8 @@
     background-color: #17a2b8;
     width: inherit;
     height: 25%;
+    padding: 2px;
+    margin: 0 auto;
 }
 .side{
     width: 50%;
