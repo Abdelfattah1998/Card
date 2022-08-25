@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 500px;
+    height: 250px;
+    background-color: #ffffff;
+    margin: 30px 50px;
+    border: 2px solid gray;
+}
+.top{
+    background-color: #17a2b8;
+    width: inherit;
+    height: 25%;
+}
+.side{
+    width: 50%;
+    height: 80%;
+    position: relative;
+    top: -12.5%;
+    padding-left: 10px;
+    margin-left: 2%;
+
+}
+.img-1{
+    height: 33%;
+}
+.img-2{
+    width: 5%;
+}
+.img-3{
+    width: 5%;
+}
+.div-1{
+    margin-left: 10%;
+}
+img{
+    margin-right: 1%;
+}
